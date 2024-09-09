@@ -64,4 +64,44 @@
                                         The invention is designed to be modular and replaceable, meaning that both the communication module (Bluetooth, Wi-Fi) and the microcontroller (Node MCU ESP8266) can be 
                                         swapped for newer technology as it becomes available, without changing the overall system architecture.
 
-The flexibility allows the system to be upgraded without the need to redesign the entire system, making it future-proof.
+                                        The flexibility allows the system to be upgraded without the need to redesign the entire system, making it future-proof.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Claims:
+        Claim 1: A home automation system comprising a central microcontroller device, a communication module, and a series of sub-devices connected to household appliances, where each sub-device contains a relay for controlling the appliance, and the central device processes voice commands via AI assistants to activate the appliances.
+        
+        Claim 2: The system of claim 1, wherein the communication module can be Bluetooth, Wi-Fi, Zigbee, or any similar technology, allowing the system to be modular and replaceable with newer communication technologies.
+        
+        Claim 3: The system of claim 1, wherein the central microcontroller device is a Node MCU ESP8266 or any compatible microcontroller, allowing it to be replaced with more advanced technologies while maintaining the same system architecture.
+        
+        Claim 4: A custom-designed PCB integrated with the microcontroller, relays, communication module, and other electronic components to ensure efficient operation of the home automation system.
+        
+        Claim 5: The system of claim 1, wherein the central microcontroller device can be connected to AI assistants, including but not limited to Google Assistant, Alexa, Siri, and Bixby, to receive and execute voice commands for controlling non-smart household appliances.
+        
+        Claim 6: A system designed for the automation of non-smart household appliances, offering affordability, scalability, and easy installation, specifically to assist disabled and elderly individuals in controlling appliances hands-free.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Advantages of the Invention:
+        Low-Cost Solution: The use of replaceable communication modules and standard microcontrollers makes this system a cost-effective alternative to upgrading appliances to smart versions.
+        
+        Modular and Replaceable: The flexibility to swap out Bluetooth or Wi-Fi modules, as well as the microcontroller, for newer versions ensures the system remains up-to-date with minimal investment.
+        
+        Ease of Installation: The system can be installed with minimal modifications to the home, and it requires no specialized tools or knowledge to set up.
+        
+        Accessibility for Disabled and Elderly: This system provides an affordable and convenient way for individuals with mobility challenges to control household devices without manual intervention.
+        
+        Energy Efficiency: The automation allows users to program the system to turn off appliances when not in use, leading to potential energy savings.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Detailed Drawings and Diagrams:
+(Include drawings and diagrams of the central microcontroller unit, the sub-devices, and how they connect to household appliances, as well as the internal structure of the PCB layout and the relays.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion:
+This home automation device provides a scalable, flexible, and low-cost solution to automate non-smart devices, offering hands-free control through AI voice assistants. 
+Its replaceable communication modules and microcontroller ensure that the system remains adaptable to technological advancements. This innovation makes smart home technology accessible to all, 
+especially benefiting the elderly and people with physical disabilities, while offering energy efficiency and convenience.
