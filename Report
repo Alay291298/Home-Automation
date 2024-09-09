@@ -1,0 +1,15 @@
+Title:
+Home Automation Device for Voice-Controlled Operation of Non-Smart Devices Using Replaceable Bluetooth/Communication Modules
+
+*Field of Invention:*
+This invention relates to the field of home automation and smart home technology. Specifically, it involves the development of a low-cost, 
+voice-controlled device that retrofits non-smart appliances and allows users to control them using AI voice assistants such as Google Assistant, 
+Alexa, Siri, or Bixby. The device connects appliances via a central microcontroller and sub-devices, using wireless communication modules and relays for automation.
+
+Background of the Invention:
+As smart home technology becomes more common, many households are still equipped with non-smart devices that require manual operation. 
+Replacing all appliances with smart ones is often expensive and impractical, especially for individuals with physical disabilities or elderly people who face mobility challenges. 
+These individuals may struggle with manually operating their household appliances, and a more affordable, voice-controlled solution is needed.
+
+This invention addresses these issues by offering a system that turns non-smart appliances into smart devices at a low cost, 
+without requiring users to replace their existing devices. The invention can work with a range of communication technologies, making it versatile and adaptable for future advancements.
